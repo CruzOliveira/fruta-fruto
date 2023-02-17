@@ -1,3 +1,6 @@
+.card-largura{
+  max-width: 50rem;
+}
 .img-carrossel{
   height: 500px;
   object-fit: cover;
@@ -5,4 +8,28 @@
 }
 .font-titulo {
   font-family: 'Pacifico', cursive;
+}
+.cor-especial{
+  color: darkred!important;
+}
+.cor-especial-button{
+  background-color: darkred;
+  color: white;
+}
+
+.borda-especial-card{
+  border-color: darkred;
+}
+.card-pos-img{
+  height: 200px;
+  object-fit: cover;
+}
+.cor-conteiner{
+  background-color: aliceblue;
+}
+.cor-rodape{
+  background-color: darkred;
+}
+.cor-texto{
+  color: white;
 }
